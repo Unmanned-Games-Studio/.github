@@ -1,12 +1,11 @@
 
 # Unmanned Games Studio
 
-![](UnmannedGamesLogo.png)
+![Unmanned Games Banner](UnmannedGamesBanner.png)
 
-## Members 
+## Members
 
 * Lack of John
 * Gone Caleb
 * Missing Mark
 * AWOL Ej
-
